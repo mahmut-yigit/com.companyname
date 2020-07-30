@@ -54,7 +54,7 @@ public class AmazonSearch {
             System.out.println("FAIL");
             System.out.println("EXPECTED SIGN IN IS: "+expectedSignInText);
             System.out.println("ACTUAL SIGN IN IS: "+actualSingInText);
-            System.out.println("ACTUAL SIGN IN IS: "+actualSingInText);
+            
         }
 
 
